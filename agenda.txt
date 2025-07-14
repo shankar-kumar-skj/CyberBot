@@ -1,0 +1,12 @@
+chatbot ----> user input  -----> bot response text format
+
+steps
+1. uv init SKJ_PROJECT
+2. uv venv
+
+we make requirement.txt file that contain
+streamlit   ---> 
+python-dotenv
+googlegenerativeai ----> gemeni API
+
+API (APPLICATION PROGRAMMABLE INTERFACE)
